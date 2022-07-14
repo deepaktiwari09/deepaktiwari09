@@ -1,2 +1,2 @@
-# Hi 👋, I'm Deepak Tiwari
+#👋, I'm Deepak Tiwari
 #### I Love ❤️ to design User Experiences
