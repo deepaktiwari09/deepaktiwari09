@@ -48,6 +48,6 @@ Email: deepaktiwari3020@gmail.com
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=deepaktiwari09&show_icons=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=deepaktiwari09&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaktiwari09&layout=compact)
